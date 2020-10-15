@@ -10,7 +10,7 @@
     <a href="https://github.com/chartjs/awesome"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
     <a href="https://chartjs-slack.herokuapp.com/"><img src="https://img.shields.io/badge/slack-chartjs-blue.svg?style=flat-square&maxAge=3600" alt="Slack"></a>
 </p>
-
+[![Run on Repl.it](https://repl.it/badge/github/chartjs/Chart.js)](https://repl.it/github/chartjs/Chart.js)
 ## Documentation
 
 - [Introduction](https://www.chartjs.org/docs/latest/)
